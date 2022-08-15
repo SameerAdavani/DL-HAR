@@ -28,12 +28,8 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
     
  # Results
  # PyTorch Results
- Class Training(Drill) % Validation(Drill) % Testing(Game) %
-Dribbling 99.8 97.6 43
-Shot 99.8 97.1 27
-Pass 98.8 65.8 25
-Layup 99.76 90.3 25
-Rebound 99.76 21.9 4
-Table 6: F1 Score per class for Single LSTM mode
+ 
+![image](https://user-images.githubusercontent.com/105876342/184663091-022dd713-e5f4-48a7-87d3-edf0f809926a.png)
+
 
 
