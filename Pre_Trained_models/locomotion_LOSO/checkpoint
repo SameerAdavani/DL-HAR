@@ -1,0 +1,2 @@
+model_checkpoint_path: "locomotion_LOSO"
+all_model_checkpoint_paths: "locomotion_LOSO"
