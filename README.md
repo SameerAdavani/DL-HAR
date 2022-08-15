@@ -62,6 +62,11 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 ![image](https://user-images.githubusercontent.com/105876342/184666591-4d2af903-28f6-45d7-9d87-2bbe9d5fc4cc.png)
 
   2.2 **Leave One-Subject-Out cross-validation(LOSO)**
+![image](https://user-images.githubusercontent.com/105876342/184696725-4e375da7-f847-4975-a59d-cbc412a876d4.png)
+![image](https://user-images.githubusercontent.com/105876342/184696748-bfd6ba17-a33e-4ffa-8ce8-4c33bb8f273e.png)
+![image](https://user-images.githubusercontent.com/105876342/184696780-ee259f7f-56ab-4744-b199-2fdffccc376b.png)
+![image](https://user-images.githubusercontent.com/105876342/184696802-74fb780b-1664-4bd9-b5c7-e3c66d45df46.png)
+![image](https://user-images.githubusercontent.com/105876342/184696816-2f37a722-63ff-4d3b-a250-122421e0830c.png)
 
 
 
