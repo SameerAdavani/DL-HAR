@@ -50,8 +50,8 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 ![image](https://user-images.githubusercontent.com/105876342/184665423-a6de2b76-4aa0-43ff-a83f-4ccb80e42fd7.png)
 ![image](https://user-images.githubusercontent.com/105876342/184665995-2070c8d1-54ed-45f6-b477-d7aaefb6702f.png)
 ![image](https://user-images.githubusercontent.com/105876342/184666016-794bbfcb-0f6a-440e-8a86-c83be5e52d69.png)
-
-    1.3. **F1 Score per class**
+    
+  1.3.  **F1 Score per class
 
 ![image](https://user-images.githubusercontent.com/105876342/184665107-d53aa9e7-2d16-4085-994e-5eedfa2ff8ea.png)
 
@@ -62,11 +62,11 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 
 ![image](https://user-images.githubusercontent.com/105876342/184666591-4d2af903-28f6-45d7-9d87-2bbe9d5fc4cc.png)
 
-    2.2 **Leave One-Subject-Out cross-validation(LOSO)**
+  2.2 **Leave One-Subject-Out cross-validation(LOSO)**
 
 
 
-    2.3 **F1 score per class for Locomotion**
+   2.3 **F1 score per class for Locomotion**
     ![image](https://user-images.githubusercontent.com/105876342/184668358-18291268-d3c6-410b-9ef1-e6cc8a28603a.png)
 
     
