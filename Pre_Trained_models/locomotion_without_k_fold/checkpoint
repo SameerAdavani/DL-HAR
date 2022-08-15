@@ -1,0 +1,2 @@
+model_checkpoint_path: "locomotion_without_k_fold"
+all_model_checkpoint_paths: "locomotion_without_k_fold"
