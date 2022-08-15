@@ -1,0 +1,2 @@
+model_checkpoint_path: "LOSO"
+all_model_checkpoint_paths: "LOSO"
