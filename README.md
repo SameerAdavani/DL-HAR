@@ -39,7 +39,8 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 
 
 ![image](https://user-images.githubusercontent.com/105876342/184665277-8ffb2123-5b3b-43e3-8d75-1730a20f08ff.png)
-   1.2. **Leave One-Subject-Out cross-validation(LOSO) **
+
+1.2. **Leave One-Subject-Out cross-validation(LOSO)**
     
     
     
