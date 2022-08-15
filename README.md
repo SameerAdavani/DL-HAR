@@ -71,3 +71,12 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
     
 # Pre-Trained Models
 You can find all the pretrained models in the folder Pre-Trained models
+
+1. Locomotion_LOSO - Pretrained weights for TensorFlow Locomotion with LOSO
+2. locomotion_test_data - Pretrained weights for TensorFlow Locomotion with K-fold
+3. locomotion_without_k_fold - Pretrained weights for TensorFlow Locomotion without K-fold.
+4. LOSO - Pretrained weights for TensorFlow Basketball model with LOSO
+5. test_data - Pretrained weights for TensorFlow Basketball model with k-fold
+6. without_k_fold - Pretrained weights for TensorFlow Basketball model without K-fold.
+7. epoch-249 - Pretrained weights for Pytorch Basketball model with single LSTM.
+8. epoch-249_one - Pretrained weights for Pytorch Basketball model with double LSTM.
