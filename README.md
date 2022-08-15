@@ -8,6 +8,22 @@ using labelled data from basketball players’ activities in our HAR investigati
 # Data Pre-Processing
 The data for all the players is imported. This data is first cleaned. The cleaning process includes
 removing not_labelled values, correcting incorrect labels.
+
 ![image](https://user-images.githubusercontent.com/105876342/184662002-817070a2-530f-42a6-8dc5-56de485e24ac.png)
+
+# Training Model
+
+The processed data was then trained using the following models. We experimented with 3 different
+Models using Pytorch. All the models were trained using the 80:20 approach only. The models are as follows:
+
+    • Single LSTM Model 
+    • Double Stacked LSTM Model
+    • ResNet (Transfer learning model) 
+
+Using TensorFlow, we used only 1 model but we had three approaches. The model is similar to the Single LSTM model. The TensorFlow model was used for the Basketball layer and Locomotion Layer. The three approaches for the model are:
+    
+    • 80:20 Split
+    • K-Fold method
+    • LOSO
 
 
