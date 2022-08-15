@@ -63,6 +63,12 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 ![image](https://user-images.githubusercontent.com/105876342/184666591-4d2af903-28f6-45d7-9d87-2bbe9d5fc4cc.png)
 
     2.2 **Leave One-Subject-Out cross-validation(LOSO)**
+
+
+
+    2.3 **F1 score per class for Locomotion**
+    ![image](https://user-images.githubusercontent.com/105876342/184668358-18291268-d3c6-410b-9ef1-e6cc8a28603a.png)
+
     
 # Pre-Trained Models
 You can find all the pretrained models in the folder Pre-Trained models
