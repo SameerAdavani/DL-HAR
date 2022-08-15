@@ -1,4 +1,4 @@
-# Dl-HAR
+# DL-HAR
 Time series Analyses for Deep Learning based Human Activity Recognition
 
 Human Activity Recognition (HAR) is a field of study that focuses on the spontaneous recognition of
