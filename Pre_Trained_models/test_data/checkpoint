@@ -1,0 +1,2 @@
+model_checkpoint_path: "test_data"
+all_model_checkpoint_paths: "test_data"
