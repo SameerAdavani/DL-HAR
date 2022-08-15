@@ -14,13 +14,13 @@ removing not_labelled values, correcting incorrect labels.
 # Training Model
 
 The processed data was then trained using the following models. We experimented with 3 different
-Models using Pytorch. All the models were trained using the 80:20 approach only. The models are as follows:
+Models using Pytorch. All the models were trained using the 80:20 approach only.The pytorch model was used for Basketball layer only. The models are as follows:
 
     • Single LSTM Model 
     • Double Stacked LSTM Model
     • ResNet (Transfer learning model) 
 
-Using TensorFlow, we used only 1 model but we had three approaches. The model is similar to the Single LSTM model. The TensorFlow model was used for the Basketball layer and Locomotion Layer. The three approaches for the model are:
+Using TensorFlow, we used only 1 model but we had three approaches. The model is similar to the Single LSTM model. The TensorFlow model was used for the **Basketball layer and Locomotion Layer**. The three approaches for the model are:
     
     • 80:20 Split
     • K-Fold method
@@ -29,7 +29,7 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
  # Results
  # PyTorch Results
  
-![image](https://user-images.githubusercontent.com/105876342/184663091-022dd713-e5f4-48a7-87d3-edf0f809926a.png)
+![image](https://user-images.githubusercontent.com/105876342/184664947-b3731b41-7dc4-4cf1-a6f6-1abf59c224c1.png)
 
 # TensorFlow Results
 
