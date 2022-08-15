@@ -41,13 +41,15 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 ![image](https://user-images.githubusercontent.com/105876342/184665277-8ffb2123-5b3b-43e3-8d75-1730a20f08ff.png)
 
    
-   1.2. **Leave One-Subject-Out cross-validation
+   1.2. **Leave One-Subject-Out cross-validation**
     
     
     
 ![image](https://user-images.githubusercontent.com/105876342/184665337-fa63a868-de70-45e5-b6c0-eff5bee8ae90.png)
 ![image](https://user-images.githubusercontent.com/105876342/184665373-49735558-ffce-47c2-8be3-80355eee129c.png)
 ![image](https://user-images.githubusercontent.com/105876342/184665423-a6de2b76-4aa0-43ff-a83f-4ccb80e42fd7.png)
+![image](https://user-images.githubusercontent.com/105876342/184665995-2070c8d1-54ed-45f6-b477-d7aaefb6702f.png)
+![image](https://user-images.githubusercontent.com/105876342/184666016-794bbfcb-0f6a-440e-8a86-c83be5e52d69.png)
 
 
 
