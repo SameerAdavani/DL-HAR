@@ -1,0 +1,2 @@
+model_checkpoint_path: "locomotion_test_data"
+all_model_checkpoint_paths: "locomotion_test_data"
