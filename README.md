@@ -33,13 +33,15 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 
 # TensorFlow Results
 1. **For the Basketball Layer**
+    
     1.1 **K-fold**
 
 
 
 ![image](https://user-images.githubusercontent.com/105876342/184665277-8ffb2123-5b3b-43e3-8d75-1730a20f08ff.png)
 
-    1.2. **Leave One-Subject-Out cross-validation**
+   
+   1.2. **Leave One-Subject-Out cross-validation
     
     
     
