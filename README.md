@@ -51,8 +51,7 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 ![image](https://user-images.githubusercontent.com/105876342/184665995-2070c8d1-54ed-45f6-b477-d7aaefb6702f.png)
 ![image](https://user-images.githubusercontent.com/105876342/184666016-794bbfcb-0f6a-440e-8a86-c83be5e52d69.png)
 
-
-
+    1.3. **F1 Score per class**
 
 ![image](https://user-images.githubusercontent.com/105876342/184665107-d53aa9e7-2d16-4085-994e-5eedfa2ff8ea.png)
 
