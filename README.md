@@ -41,7 +41,7 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 ![image](https://user-images.githubusercontent.com/105876342/184665277-8ffb2123-5b3b-43e3-8d75-1730a20f08ff.png)
 
    
-   1.2. **Leave One-Subject-Out cross-validation**
+   1.2. **Leave One-Subject-Out cross-validation(LOSO) **
     
     
     
@@ -56,5 +56,13 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 ![image](https://user-images.githubusercontent.com/105876342/184665107-d53aa9e7-2d16-4085-994e-5eedfa2ff8ea.png)
 
 
+2. **For the Locomotion Layer**
 
-2. For the Locomotion Layer
+    2.1 **K-fold**
+
+![image](https://user-images.githubusercontent.com/105876342/184666591-4d2af903-28f6-45d7-9d87-2bbe9d5fc4cc.png)
+
+    2.2 **Leave One-Subject-Out cross-validation(LOSO)**
+    
+# Pre-Trained Models
+You can find all the pretrained models in the folder Pre-Trained models
