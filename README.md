@@ -8,6 +8,6 @@ using labelled data from basketball players’ activities in our HAR investigati
 # Data Pre-Processing
 The data for all the players is imported. This data is first cleaned. The cleaning process includes
 removing not_labelled values, correcting incorrect labels.
-![image](https://user-images.githubusercontent.com/105876342/184661668-dbd954f3-ceba-4b41-a57c-db46c1353edd.png) ![image](https://user-images.githubusercontent.com/105876342/184661626-7e07df07-6c3e-4437-b7cf-0d28a174595d.png)
+![image](https://user-images.githubusercontent.com/105876342/184662002-817070a2-530f-42a6-8dc5-56de485e24ac.png)
 
 
