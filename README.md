@@ -88,7 +88,7 @@ You can find all the pretrained models in the folder Pre-Trained models
 
 # Citations
 @inproceedings{DL-HAR-Sameer&Vishaka,
-  author    = {Sameer Adavani and Vishaka srinivas},
-  title     = {Deep Learning based Human activity recognition},
-  year      = {2022}
-}
+     author = {Sameer Adavani and Vishaka srinivas},
+     title  = {Deep Learning based Human activity recognition},
+     year   = {2022}
+              }
