@@ -85,3 +85,10 @@ You can find all the pretrained models in the folder Pre-Trained models
 6. without_k_fold - Pretrained weights for TensorFlow Basketball model without K-fold.
 7. epoch-249 - Pretrained weights for Pytorch Basketball model with single LSTM.
 8. epoch-249_one - Pretrained weights for Pytorch Basketball model with double LSTM.
+
+# Citations
+@inproceedings{DL-HAR-Sameer&Vishaka,
+  author    = {Sameer Adavani and Vishaka srinivas},
+  title     = {Deep Learning based Human activity recognition},
+  year      = {2022}
+}
